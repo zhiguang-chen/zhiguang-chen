@@ -5,8 +5,8 @@ work a lot with AWS infrastructure (IaC).
 
 ### Tech Stack
 
-- **Active:** React, TypeScript, Node.js, AWS
-- **Past:** Flutter/Dart, PHP
+- **Active:** TypeScript, React, React Native, Next.js, Node.js, AWS
+- **Past:** Flutter/Dart, Angular, PHP, Laravel
 
 ### Contact
 
