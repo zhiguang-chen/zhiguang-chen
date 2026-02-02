@@ -5,8 +5,23 @@ work a lot with AWS infrastructure (IaC).
 
 ### Tech Stack
 
-- **Active:** TypeScript, React, React Native, Next.js, Node.js, AWS
-- **Past:** Flutter/Dart, Angular, PHP, Laravel
+#### Active:
+
+- React (Since 2018)
+- React Native (Since 2019)
+- Next.js (Since 2024)
+- Node.js (Since 2018)
+- TypeScript (Since 2016)
+- Javascript (Since 2009)
+- AWS (Since 2019) - IaC, Lambda, DynamoDB.
+
+#### Previously:
+
+- Dart/Flutter (2020-2025)
+- Angular (2014-2021)
+- PHP (2003-2023)
+- Laravel (2013-2023)
+- MySQL, MongoDB
 
 ### Contact
 
@@ -17,6 +32,7 @@ work a lot with AWS infrastructure (IaC).
 
 ### readonly.page
 
+A doc reader from a URL: \
 https://github.com/hanlogy/web.readonly.page
 
 ### Markdown parser(dart-lang)
