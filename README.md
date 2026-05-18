@@ -1,7 +1,7 @@
 ## Hi, I'm Zhiguang
 
-I'm a full-stack developer with a frontend focus, now working on AI agents,
-context engineering, and production LLM-powered systems.
+I'm a full-stack developer focused on web applications, mobile applications, AI
+integrations.
 
 _Previous GitHub account:
 [https://github.com/chenzhiguang](https://github.com/chenzhiguang?tab=overview&from=2022-12-01&to=2022-12-31)_
@@ -10,25 +10,14 @@ _Previous GitHub account:
 
 #### Active:
 
-React.js, React Native, Next.js, Node.js, TypeScript, AWS, LangChain,
-LangGraph, DeepAgent.
+- **Frontend:** React.js, Next.js, React Native
+- **Backend:** Node.js, TypeScript, PostgreSQL, AWS, GCP
+- **AI:** LangChain, LangGraph, Deep Agents, LLM integrations, Agent Engineering
+- **Design:** Figma, Adobe Photoshop, Adobe Illustrator
 
-#### AI / Agents:
-
-AI agents, context engineering, multi-agent workflows, LLM application
-development, agent tool use, workflow orchestration.
-
-#### Previously:
+#### Inactive:
 
 Dart/Flutter, Angular, PHP, Laravel, MySQL, MongoDB
-
-### Design
-
-Intermediate level. Figma, Adobe Photoshop, Adobe Illustrator
-
-## Portfolios
-
-https://iamhuman.engineer/zhiguang-chen
 
 ## Open source
 
